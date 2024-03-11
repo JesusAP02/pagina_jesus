@@ -57,3 +57,47 @@ body {
     align-items: center;
 
 }
+
+.header {
+    height: 60vh !important;
+    background: url(img/animeeee.jpg!d) no-repeat center;
+    background-size: cover;
+}
+
+.title {
+    margin-bottom: 40px;
+    font-size: 60px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+p {
+    margin-bottom: 40px;
+    font-size: 18px;
+    color: #fff;
+    padding: 0 100px;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 40px;
+    border: 2px solid #c53da3;
+    color: #fff;
+    text-decoration: none;
+    background: #c53da3;
+}
+
+.btn:hover {
+    background: none;
+
+}
+
+.btn-home {
+    display: flex;
+}
+
+.btn-home a {
+    margin: 0 10px;
+}
