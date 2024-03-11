@@ -156,3 +156,24 @@ p {
     padding: 0 15px;
     font-size: 16px;
 }
+
+.about {
+    background: url(img/pruebaluci1.jpg) no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+.price {
+    background: url(img/docPC1.jpg) no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+.prises {
+    background: url(img/pueba.jpg) no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
