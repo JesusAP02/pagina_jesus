@@ -177,3 +177,9 @@ p {
     background-size: cover;
     text-align: center;
 }
+
+.contact {
+    padding-top: 20px;
+    background: #171717;
+    padding-bottom: 0;
+}
